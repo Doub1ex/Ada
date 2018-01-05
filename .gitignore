@@ -119,3 +119,12 @@ venv.bak/
 .mypy_cache/
 
 /config.py
+/client_secret.json
+/Authorizer.py
+/venv1/
+/venv2/
+.idea/
+cache/
+venv1/
+venv2/
+wiki.txt
